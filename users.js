@@ -639,7 +639,7 @@ User = (function () {
 			// Its main purpose is for situations where someone calls for help, and
 			// your server has no admins online, or its admins have lost their
 			// access through either a mistake or a bug - a system operator such as
-			// Zarel will be able to fix it.
+			// RulesOrmigah will be able to fix it.
 
 			// This relies on trusting Pokemon Showdown. If you do not trust
 			// Pokemon Showdown, feel free to disable it, but remember that if
